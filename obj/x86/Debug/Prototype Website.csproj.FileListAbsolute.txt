@@ -1,0 +1,5 @@
+C:\Users\Nedas\Source\Repos\Nedska.github.io\obj\x86\Debug\Prototype Website.csprojResolveAssemblyReference.cache
+C:\Users\Nedas\Source\Repos\Nedska.github.io\bin\Debug\ConsoleApplication.exe
+C:\Users\Nedas\Source\Repos\Nedska.github.io\bin\Debug\ConsoleApplication.pdb
+C:\Users\Nedas\Source\Repos\Nedska.github.io\obj\x86\Debug\ConsoleApplication.exe
+C:\Users\Nedas\Source\Repos\Nedska.github.io\obj\x86\Debug\ConsoleApplication.pdb
